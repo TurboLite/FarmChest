@@ -199,7 +199,7 @@ function AllowRunServiceBind.OnInvoke(args)
 
         Text = "discord.gg/zKA8VNHzME",
 
-        Icon = "rbxthumb://type=Asset&id=18918956205&w=150&h=150",
+        Icon = "rbxthumb://type=Asset&id=18919385616&w=150&h=150",
 
         Duration = math.huge,
 
@@ -246,7 +246,7 @@ CoreGui:SetCore("SendNotification", {
 
     Text = "discord.gg/zKA8VNHzME",
 
-    Icon = "rbxthumb://type=Asset&id=18918956205&w=150&h=150",
+    Icon = "rbxthumb://type=Asset&id=18919385616&w=150&h=150",
 
     Duration = math.huge,
 
